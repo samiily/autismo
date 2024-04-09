@@ -1,0 +1,30 @@
+body {
+    font-style: oblique;
+    color: white;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, black, rgb(90, 90, 243))
+
+}
+header { 
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
